@@ -112,7 +112,7 @@ Ikuti langkah-langkah berikut secara berurutan untuk menjalankan Adimology di cl
 
 1. **Fork Repository**: Buka repository Adimology ini di GitHub, lalu klik tombol **Fork** di pojok kanan atas. Ini akan membuat salinan project ini di akun GitHub Anda sendiri agar Anda bisa menghubungkannya ke Netlify.
 2. Login ke [Netlify](https://www.netlify.com/) dan klik **Add new site > Import an existing project**
-3. Pilih repository Adimology dari GitHub
+3. Pilih repository Adimology dari GitHub anda
 4. Tambahkan **Environment Variables** di Netlify:
 
    | Variable | Nilai | Wajib |
